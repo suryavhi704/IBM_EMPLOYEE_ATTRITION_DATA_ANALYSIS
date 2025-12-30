@@ -61,4 +61,4 @@ Use attrition prediction insights to guide HR policy and compensation planning
 
 # 📸 Dashboard Preview
 
-[# IBM_EMPLOYEE_ATTRITION_DATA_ANALYSIS](https://github.com/suryavhi704/IBM_EMPLOYEE_ATTRITION_DATA_ANALYSIS/blob/main/Screenshot%202025-12-30%20193453.png?raw=true)
+![IBM_EMPLOYEE_ATTRITION_DATA_ANALYSIS](https://github.com/suryavhi704/IBM_EMPLOYEE_ATTRITION_DATA_ANALYSIS/blob/main/Screenshot%202025-12-30%20193453.png?raw=true)
